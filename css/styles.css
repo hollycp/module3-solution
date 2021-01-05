@@ -1,0 +1,41 @@
+/* header */
+#header-nav {
+    background-color: #a9a9a9;
+    border-radius: 0;
+    border: 0;   
+    
+}
+
+.navbar-brand h1{ /* restaurant name*/ 
+    font-family: courier;
+    color: black;
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom:0;    
+}
+
+j.navbar-brand a:hover, .navbar-brand a:focus {
+    text-decoration: none;
+}
+
+.p {
+    background-color: #a9a9a9;
+    font-family: 'Courier New', Courier, monospace;
+    margin: auto;
+    height: 1000px;
+    
+}
+
+#nav-list {
+    text-align: center;
+    font-family: courier;
+}
+
+.menu-tile {
+    background-color: #a9a9a9;
+    font-family: Courier, monospace;
+    margin: auto;
+    height: 200px;
+    padding-left: 15px;
+}
